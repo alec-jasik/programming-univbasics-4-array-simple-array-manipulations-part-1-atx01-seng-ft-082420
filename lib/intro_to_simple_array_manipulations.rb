@@ -19,5 +19,4 @@ end
 def using_shift(array)
   ["hello"]
   array.shift 
-array
 end

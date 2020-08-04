@@ -15,3 +15,8 @@ def pop_with_args(array)
   ["hello", "goodbye", "good_day"]
   array.pop(2)
 end
+
+def using_shift(array)
+  ["hello"]
+  array.shift 
+end

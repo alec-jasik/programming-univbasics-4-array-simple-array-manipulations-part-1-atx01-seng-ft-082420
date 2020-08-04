@@ -10,3 +10,4 @@ def using_pop(array)
   ["hello", "goodbye"]
   array.pop
 end
+
